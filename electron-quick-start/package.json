@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mwdu/Electron-in-Action/issues"
   },
-  "homepage": "https://github.com/mwdu/Electron-in-Action#readme"
+  "homepage": "https://github.com/mwdu/Electron-in-Action#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
 }
