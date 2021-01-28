@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwdu/Electron-in-Action#readme",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^9.4.0"
   }
 }
